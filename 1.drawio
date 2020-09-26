@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-26T07:56:59.927Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="H8T5wbaV0b2CtXlxX_6j" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-26T11:05:04.063Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="x7gdO-D0rZqyMIROHxd8" version="13.7.5" type="github">
   <diagram id="aiCE2wl9EOCgw8mAgRh2" name="Page-1">
-    <mxGraphModel dx="806" dy="825" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="806" dy="825" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -574,8 +574,8 @@
         <mxCell id="2MLf7N2p2UA_cOCvT7zq-384" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;shadow=0;labelBackgroundColor=none;sketch=0;strokeColor=#000000;strokeWidth=1;fillColor=none;gradientColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="117" y="752" width="20" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="2MLf7N2p2UA_cOCvT7zq-385" value="kernel_size：3×3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="24" y="782" width="88" height="16" as="geometry" />
+        <mxCell id="2MLf7N2p2UA_cOCvT7zq-385" value="receptive field：3×3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="18" y="782" width="100" height="17" as="geometry" />
         </mxCell>
         <mxCell id="2MLf7N2p2UA_cOCvT7zq-386" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;fontSize=10;entryX=0.212;entryY=-0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2MLf7N2p2UA_cOCvT7zq-75" target="2MLf7N2p2UA_cOCvT7zq-290">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
